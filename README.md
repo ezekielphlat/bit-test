@@ -1,0 +1,2 @@
+# bit-test
+test bit
